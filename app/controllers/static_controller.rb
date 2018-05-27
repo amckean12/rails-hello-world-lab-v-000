@@ -1,3 +1,3 @@
 class StaticController < ActionController::Base
   
-end 
+end
